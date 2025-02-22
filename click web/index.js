@@ -54,6 +54,6 @@ function buyPickaxe() {
 }   
 
 setInterval(()  => {
- parsedGem +=gpss
+ parsedGem +=gps
  gem.innerHTML = Math.round(parsedGem)   
 }, 1000)
